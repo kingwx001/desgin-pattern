@@ -8,15 +8,15 @@ package creational_patterns.factory_pattern;
 /* 
 public class PersonFactory {
     public Person getPerson(String gender){
-        if("female".equals(gender)){
+        if("female".equalsIgnoreCase(gender)){
             return new Female();
-        }else if("male".equals(gender)){
+        }else if("male".equalsIgnoreCase(gender)){
             return new Male();
         }
         return null;
     }
-}
- */
+} */
+
 
  /**
   * 传入类名，使用反射动态生成对象
