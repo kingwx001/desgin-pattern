@@ -1,5 +1,7 @@
+package creational_patterns.factory_pattern;
+
 public class Male implements Person{
-    void call(){
+    public void call(){
         System.out.println("---male--");
     }
 }
