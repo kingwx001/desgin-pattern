@@ -1,4 +1,6 @@
-package creational_patterns.factory_pattern;
+package creational_patterns.abstract_factory_pattern;
+
+
 
 public class Male implements PersonInterface{
     public void call(){
