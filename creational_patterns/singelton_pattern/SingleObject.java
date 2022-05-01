@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
-import javax.swing.text.html.parser.DTD;
+
 
 /**
  * 饿汉式，线程安全

@@ -16,7 +16,7 @@
 
 4.创造者模式(builder pattern)  
 
-![](https://cdn.jsdelivr.net/gh/kingwx001/image/design-pattern/202204271555.jpg)
+![](https://cdn.jsdelivr.net/gh/kingwx001/image/design-pattern/202205011934.jpg)
 
 5.原型模式(prototype pattern)   
 
