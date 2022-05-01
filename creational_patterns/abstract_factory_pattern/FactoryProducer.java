@@ -1,6 +1,5 @@
 package creational_patterns.abstract_factory_pattern;
 
-import java.io.File;
 
 public class FactoryProducer {
 

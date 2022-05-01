@@ -4,7 +4,6 @@ public class Short implements HeightInterface{
 
     @Override
     public void show() {
-        // TODO Auto-generated method stub
         System.out.println("--short--");
     }
     
