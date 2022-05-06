@@ -27,7 +27,7 @@ public class DynamicProxy implements InvocationHandler{
 
 
 
-class Test{
+class Test1{
     public static void main(String[] args) {
         DynamicProxy dynamicProxy = new DynamicProxy();
         Subject newInstanceProxy = dynamicProxy.newInstanceProxy(new RealSubject());
